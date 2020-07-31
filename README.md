@@ -9,7 +9,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-FF0000?style=flat-square&labelColor=FFFFFF&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&link=https://discord.com/invite/2SNu9KT)](https://discord.com/invite/2SNu9KT)
 [![Email Badge](https://img.shields.io/badge/-hi@sergeev.press-000000?style=flat-square&labelColor=black&logo=Mail.Ru&logoColor=white)](mailto:hi@sergeev.press)
 
-<img align="right" alt="GIF" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ### I'm a Beginner Developer
 - 🔭 I’m currently learning front-end
@@ -32,5 +32,6 @@
 <br />
 
 ---
-
-<img align="left" alt="Vladimir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true&hide=contribs,prs,issues" /> <img align="right" alt="Vladimir's Most Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact&hide_border=true" />
+<div>
+<img align="left" style="float:left" alt="Vladimir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true&hide=contribs,prs,issues" /><img align="right" alt="Vladimir's Most Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact&hide_border=true" />
+</div>
