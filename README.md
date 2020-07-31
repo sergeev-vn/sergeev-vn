@@ -1,9 +1,9 @@
 ### Hi there, I'm Vova 👋
 
 ## I'm a Beginner Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently learning front-end
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Find a job in front-end development
 - ⚡ Fun fact: I love running
 
 ### Connect with me:
