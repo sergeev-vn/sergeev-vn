@@ -1,4 +1,4 @@
-# 🦄 Hi there! I'm Vladimir N. Sergeev
+# 🦄 Hi there! I'm Vladimir N. Sergeev.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsergeev-vn%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sergeev-vn)](https://github.com/sergeev-vn)
@@ -7,15 +7,17 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sergeev_vn)](https://t.me/sergeev_vn)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/79132011194)](https://wa.me/79132011194)
 [![Discord Badge](https://img.shields.io/badge/-Discord-FF0000?style=flat-square&labelColor=FFFFFF&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&link=https://discord.com/invite/2SNu9KT)](https://discord.com/invite/2SNu9KT)
-[![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&labelColor=black&logo=Mail.Ru&logoColor=white)](mailto:hi@sergeev.press)
+[![Email Badge](https://img.shields.io/badge/-hi@sergeev.press-000000?style=flat-square&labelColor=black&logo=Mail.Ru&logoColor=white)](mailto:hi@sergeev.press)
 
-### I'm a Beginner Developer!
+<img align="right" alt="GIF" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+### I'm a Beginner Developer
 - 🔭 I’m currently learning front-end
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Join a fast-paced and ambitious dev team!
-- ⚡ Fun fact: I love running
+- ⚡ Fun fact: I love the TV series Friends.
 
-<br />
+
 
 ### Languages and Tools:
 
