@@ -2,8 +2,8 @@
 
 <p><em>I'm a Beginner Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsergeev-vn%2Fhit-counter)](https://hits.seeyoufarm.com)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sergeev-vn)](https://github.com/sergeev-vn)
+![](https://visitor-badge.laobi.icu/badge?page_id=sergeev-vn.readme)
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2-449709132/)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2-449709132/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sergeev.vn/)](https://www.instagram.com/sergeev.vn/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sergeev_vn)](https://t.me/sergeev_vn)
