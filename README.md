@@ -39,4 +39,44 @@
 <img align="left" alt="Vladimir's Most Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact&hide_border=true" />
 
 <!--START_SECTION:waka-->
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+🌆 Daytime    94 commits     ████████░░░░░░░░░░░░░░░░░   34.18% 
+🌃 Evening    126 commits    ███████████░░░░░░░░░░░░░░   45.82% 
+🌙 Night      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
+
+```
+📅 **I'm Most Productive on Fridays** 
+
+```text
+Monday       50 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Tuesday      48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Wednesday    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.55% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Friday       68 commits     ██████░░░░░░░░░░░░░░░░░░░   24.73% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+Sunday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.09%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Novosibirsk
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+
 <!--END_SECTION:waka-->
