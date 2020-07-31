@@ -27,8 +27,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact)
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true&hide=contribs,prs,issues" /> <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact&hide_border=true" />
 
 [website]: https://sergeev.press/
 [instagram]: https://www.instagram.com/sergeev.vn/
