@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=FFFFFF&logo=instagram&logoColor=000000&link=https://www.instagram.com/sergeev.vn/)](https://www.instagram.com/sergeev.vn/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sergeev_vn)](https://t.me/sergeev_vn)
 [![Discord Badge](https://img.shields.io/badge/-Discord-FF0000?style=flat-square&labelColor=FFFFFF&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&link=https://discord.com/invite/2SNu9KT)](https://discord.com/invite/2SNu9KT)
-[![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&labelColor=FFFFFF&logo=mail-dot-ru&logoColor=000000&link=maito:hi@sergeev.press)](maito:hi@sergeev.press)
+[![Email Badge](https://img.shields.io/badge/-Email-000000?style=flat-square&labelColor=FFFFFF&logo=Mail.Ru&logoColor=000000&link=maito:hi@sergeev.press)](maito:hi@sergeev.press)
 
 ## I'm a Beginner Developer!
 - 🔭 I’m currently learning front-end
