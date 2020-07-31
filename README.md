@@ -1,4 +1,4 @@
-### Hi there, I'm Vova 👋
+### Hi there, [I'm Vova][website] 👋
 
 ## I'm a Beginner Developer!
 - 🔭 I’m currently learning front-end
@@ -27,7 +27,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact)
 
 [website]: https://sergeev.press/
 [instagram]: https://www.instagram.com/sergeev.vn/
