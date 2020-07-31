@@ -2,8 +2,7 @@
 
 <p><em>I'm a Beginner Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sergeev-vn.readme)
-<br>
+![visitor's badge](https://visitor-badge.laobi.icu/badge?page_id=sergeev-vn.readme)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2-449709132/)](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2-449709132/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sergeev.vn/)](https://www.instagram.com/sergeev.vn/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sergeev_vn)](https://t.me/sergeev_vn)
@@ -36,8 +35,8 @@
 
 <img align="left" alt="Vladimir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
 <br />
-<img align="left" alt="Vladimir's Most Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact&hide_border=true" />
-<br >
+<img alt="Vladimir's Most Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact&hide_border=true" />
+<br />
 
 
 <!--START_SECTION:waka-->
