@@ -1,4 +1,6 @@
-# 🦄 Hi there! I'm Vladimir N. Sergeev.
+## 🦄 Hi there, I'm Vladimir N. Sergeev!
+
+<p><em>I'm a Beginner Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsergeev-vn%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sergeev-vn)](https://github.com/sergeev-vn)
@@ -11,13 +13,12 @@
 
 <img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### I'm a Beginner Developer
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
 - 🔭 I’m currently learning front-end
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Join a fast-paced and ambitious dev team!
 - ⚡ Fun fact: I love the TV series Friends.
-
-
 
 ### Languages and Tools:
 
@@ -32,6 +33,7 @@
 <br />
 
 ---
+
 <img align="left" alt="Vladimir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergeev-vn&show_icons=true&hide_border=true&hide=contribs,prs,issues" />
 <br />
 <img align="left" alt="Vladimir's Most Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeev-vn&layout=compact&hide_border=true" />
