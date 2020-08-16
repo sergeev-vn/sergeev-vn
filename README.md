@@ -32,21 +32,21 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 521 Contributions in year 2020
+> 🏆 521 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 12 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
@@ -55,7 +55,7 @@
 🌙 Night      41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
@@ -69,29 +69,26 @@ Sunday       45 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Novosibirsk
+⌚︎ Time zone: Asia/Novosibirsk
 
-💬 Languages: 
-Pug                      8 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.57% 
-Other                    7 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.53% 
-JavaScript               2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+💬 Programming Languages: 
+Pug                      8 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.72% 
+Other                    7 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   38.41% 
+JavaScript               2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
-🔥 Editors: 
-VS Code                  17 hrs 59 mins      █████████████████████████   100.0%
+🔥 Code Editors: 
+VS Code                  18 hrs 48 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-drive-moto               17 hrs 59 mins      █████████████████████████   100.0%
-
-💻 Operating Systems: 
-Windows                  17 hrs 59 mins      █████████████████████████   100.0%
+💻 Operating System: 
+Windows                  18 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in HTML** 
+**I Mostly Code in HTML** 
 
 ```text
 HTML                     6 repos             █████████████░░░░░░░░░░░░   54.55% 
