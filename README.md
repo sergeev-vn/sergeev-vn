@@ -32,7 +32,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My Github Data** 
 
@@ -79,9 +79,6 @@ Other                    0 secs              ███████████�
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-drive-moto               0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.0%
