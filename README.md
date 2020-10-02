@@ -75,16 +75,14 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Novosibirsk
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      41 mins             ██████████████████░░░░░░░   74.17% 
+JSON                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.83%
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  55 mins             █████████████████████████   100.0%
 
 ```
 
