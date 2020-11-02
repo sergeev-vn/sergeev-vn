@@ -32,7 +32,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -83,6 +83,10 @@ JSON                     29 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  25 hrs 29 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Unknown Project          16 hrs 53 mins      ████████████████░░░░░░░░░   66.28% 
+promo                    8 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.72%
 
 💻 Operating System: 
 Windows                  25 hrs 29 mins      █████████████████████████   100.0%
