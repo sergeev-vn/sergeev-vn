@@ -36,6 +36,8 @@
 
 **🐱 My Github Data** 
 
+> 🏆 553 Contributions in the Year 2020
+ > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
@@ -81,6 +83,9 @@ Apache Config            31 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  22 hrs 33 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Unknown Project          22 hrs 33 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  22 hrs 33 mins      █████████████████████████   100.0%
