@@ -1,6 +1,6 @@
 ## 🦄 Hi there, I'm Vladimir N. Sergeev!
 
-<p><em>I'm a Beginner in Front-End Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>I'm Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsergeev-vn%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Email Badge](https://img.shields.io/badge/-hi@sergeev.press-000000?style=flat-square&labelColor=black&logo=Mail.Ru&logoColor=white)](mailto:hi@sergeev.press)
