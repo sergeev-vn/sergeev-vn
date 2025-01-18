@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently learning front-end
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Join a fast-paced and ambitious dev team!
+- 🥅 2025 Goals: Join a fast-paced and ambitious dev team!
 - ⚡ Fun fact: I love the TV series Friends.
 
 ### Languages and Tools:
